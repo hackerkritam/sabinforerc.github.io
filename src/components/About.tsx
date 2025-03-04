@@ -1,5 +1,6 @@
 import React from 'react';
 import { GraduationCap, Award, Users, Briefcase } from 'lucide-react';
+import sabin from "./sabinho.jpg"
 
 const About = () => {
   return (
@@ -15,7 +16,7 @@ const About = () => {
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-1/3">
           <div className="bg-white rounded-lg shadow-lg overflow-hidden">
-            <img src="\src\components\sabinho.jpg"
+            <img src={sabin} alt="Sabin Dhital"
               className="w-full h-80 object-cover"
             />
             <div className="p-6">
