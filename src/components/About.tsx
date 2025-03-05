@@ -28,7 +28,7 @@ const About = () => {
               </div>
               <div className="flex items-center text-gray-700 mb-2">
                 <Award className="h-5 w-5 mr-2" />
-                <span>FSU Presidential Candidate</span>
+                <span>FSU Presidential Candidate</span>kritam
               </div>
               <div className="flex items-center text-gray-700 mb-2">
                 <Users className="h-5 w-5 mr-2" />
