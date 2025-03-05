@@ -40,15 +40,7 @@ const Contact = () => {
             </div>
           </div>
           
-          <div className="flex items-start">
-            <Clock className="h-6 w-6 text-blue-600 mr-4 mt-1" />
-            <div>
-              <h4 className="text-lg font-semibold text-gray-800 mb-1">Campaign Hours</h4>
-              <p className="text-gray-600">Monday - Friday: 10:00 AM - 5:00 PM</p>
-              <p className="text-gray-600">Saturday: 11:00 AM - 3:00 PM</p>
-            </div>
-          </div>
-        </div>
+                  </div>
 
         <div className="md:w-1/2 bg-white rounded-lg shadow-lg p-8">
           <h3 className="text-2xl font-bold text-blue-800 mb-6">Send a Message</h3>
