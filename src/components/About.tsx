@@ -36,7 +36,7 @@ const About = () => {
               </div>
               <div className="flex items-center text-gray-700">
                 <Briefcase className="h-5 w-5 mr-2" />
-                <span>Future Civil Engineer</span>
+                <span>Future Civil Engineerr</span>
               </div>
             </div>
           </div>
