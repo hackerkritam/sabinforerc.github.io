@@ -61,7 +61,7 @@ const Navbar: React.FC<NavbarProps> = ({ activeSection }) => {
           })}
           <div className="animate-pulse flex items-center">
             <span className="text-sm font-bold text-red-600 border border-red-600 rounded-full px-3 py-1">
-              Vote for Freedom
+              Vote for Independent
             </span>
           </div>
         </nav>
