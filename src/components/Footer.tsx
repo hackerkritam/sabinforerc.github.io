@@ -43,7 +43,7 @@ const Footer = () => {
           
           <div className="mt-6 text-center">
             <div className="animate-pulse inline-block bg-red-600 text-white font-bold py-2 px-4 rounded-full">
-              Vote for a Free Candidate | Vote for Change
+              Vote for a Independent Candidate | Vote for Change
             </div>
           </div>
         </div>
