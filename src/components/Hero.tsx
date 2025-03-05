@@ -19,7 +19,7 @@ const Hero = () => {
         className="absolute inset-0 bg-cover bg-center"
         style={{
           backgroundImage: "url('https://portal.tu.edu.np/medias/bg_gallery_2023_08_21_10_53_01.jpg')",
-          opacity: 0.3,
+          opacity: 0.4,
         }}
       ></div>
 
