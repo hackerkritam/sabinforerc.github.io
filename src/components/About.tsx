@@ -52,7 +52,7 @@ const About = () => {
               Throughout my time at IOE, I have actively participated in various student activities, volunteered for community service, and collaborated with faculty members on initiatives to improve campus life. These experiences have given me valuable insights into the needs and concerns of our student body.
             </p>
             <p className="text-gray-700 mb-4">
-              I believe, that a strong Free Student Union (FSU) is essential for representing student interests and ensuring that our voices are heard in administrative decisions. With your support, I aim to lead the FSU with integrity, transparency, and a commitment to making IOE Purwanchal Campus a better place for all students.
+              I believe that a strong Free Student Union (FSU) is essential for representing student interests and ensuring that our voices are heard in administrative decisions. With your support, I aim to lead the FSU with integrity, transparency, and a commitment to making IOE Purwanchal Campus a better place for all students.
             </p>
             <h3 className="text-2xl font-bold text-blue-800 mt-8 mb-4">Why I'm Running</h3>
             <p className="text-gray-700 mb-4">
