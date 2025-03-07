@@ -9,7 +9,7 @@ const About = () => {
         <h2 className="text-3xl md:text-4xl font-bold text-blue-800 mb-4">About Me</h2>
         <div className="w-20 h-1 bg-blue-600 mx-auto mb-6"></div>
         <p className="text-gray-600 max-w-3xl mx-auto">
-          Civil Engineering student with a passion for leadershi and improving student life at IOE Purwanchal Campus.
+          Civil Engineering student with a passion for leadership and improving student life at IOE Purwanchal Campus.
         </p>
       </div>
 
