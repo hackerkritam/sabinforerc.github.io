@@ -28,7 +28,7 @@ const Vision = () => {
       description: "Experts and professionals from various fields delivering specialized knowledge and real-world insights to enhance academic learning."
     },
     {
-      icon: <Droplet className="h-10 w-10 text-blue-600" />,
+      icon: <FileText className="h-10 w-10 text-blue-600" />,
       title: "Transparency and accountability",
       description: " Fundamental principles ensuring openness, ethical decision-making, and responsibility in governance, fostering trust and integrity in organizations and institutions."
     },
@@ -48,7 +48,7 @@ const Vision = () => {
       description: "A financial safety net that covers medical expenses, providing access to quality healthcare while reducing out-of-pocket costs for individuals and families."
     },
     {
-      icon: <Wifi className="h-10 w-10 text-blue-600" />,
+      icon: <FileText className="h-10 w-10 text-blue-600" />,
       title: "Student and Teacher Evaluation",
       description: "A structured framework for assessing student performance and teacher effectiveness to improve learning outcomes and teaching quality."
     }
