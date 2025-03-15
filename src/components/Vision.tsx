@@ -14,43 +14,43 @@ const Vision = () => {
   const visionItems = [
     {
       icon: <ShieldCheck className="h-10 w-10 text-blue-600" />,
-      title: "Transparent Administration",
-      description: "Ensure fair accounting of student funds with regular public audits and transparent decision-making processes."
+      title: "Innovation HUb",
+      description: " A collaborative space fostering creativity, research, and technological advancements to drive groundbreaking solutions."
     },
     {
       icon: <Briefcase className="h-10 w-10 text-blue-600" />,
-      title: "Internship & Job Opportunities",
-      description: "Establish partnerships with industry leaders to provide internship and job placement opportunities for students."
+      title: "Student Exchange Program",
+      description: "A cross-cultural learning initiative that enables students to study abroad, gain global exposure, and develop diverse perspectives."
     },
     {
       icon: <Lightbulb className="h-10 w-10 text-blue-600" />,
-      title: "Improved Lighting",
-      description: "Install adequate lighting throughout campus for safety and to facilitate evening study sessions."
+      title: "Visitor Lecture",
+      description: "Experts and professionals from various fields delivering specialized knowledge and real-world insights to enhance academic learning."
     },
     {
       icon: <Droplet className="h-10 w-10 text-blue-600" />,
-      title: "Clean Drinking Water",
-      description: "Ensure access to clean drinking water with filtered water stations across campus."
+      title: "Transparency and accountability",
+      description: " Fundamental principles ensuring openness, ethical decision-making, and responsibility in governance, fostering trust and integrity in organizations and institutions."
     },
     {
       icon: <Building2 className="h-10 w-10 text-blue-600" />,
-      title: "Better Facilities",
-      description: "Renovate toilets, improve canteen quality, and enhance common areas for student comfort."
+      title: "Digitalization",
+      description: "Transforming traditional processes into digital frameworks to enhance efficiency, accessibility, and innovation in the ERC ."
     },
     {
       icon: <GraduationCap className="h-10 w-10 text-blue-600" />,
-      title: "Academic Excellence",
+      title: "Internship and Job Placement",
       description: "Advocate for improved teaching methods, updated curriculum, and better laboratory equipment."
     },
     {
       icon: <FileText className="h-10 w-10 text-blue-600" />,
-      title: "Streamlined Administration",
-      description: "Simplify administrative processes for students, reducing bureaucracy and wait times."
+      title: "Health insurance ",
+      description: "A financial safety net that covers medical expenses, providing access to quality healthcare while reducing out-of-pocket costs for individuals and families."
     },
     {
       icon: <Wifi className="h-10 w-10 text-blue-600" />,
-      title: "Better Internet",
-      description: "Upgrade campus WiFi infrastructure for reliable, high-speed internet access throughout campus."
+      title: "Student and Teacher Evaluation",
+      description: "A structured framework for assessing student performance and teacher effectiveness to improve learning outcomes and teaching quality."
     }
   ];
 
