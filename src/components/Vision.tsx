@@ -39,7 +39,7 @@ const Vision = () => {
     },
     {
       icon: <GraduationCap className="h-10 w-10 text-blue-600" />,
-      title: "Internship and Job Placement",
+      title: "Internship and Job Placemen",
       description: "Advocate for improved teaching methods, updated curriculum, and better laboratory equipment."
     },
     {
